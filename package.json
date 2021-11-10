@@ -47,16 +47,16 @@
     "gulp-filter": "^5.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.5.4",
-    "gulp-uglify": "^2.1.0",
+    "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
-    "handlebars": "^4.0.6",
+    "handlebars": "^4.0.12",
     "handlebars-loader": "^1.4.0",
     "less": "^2.7.2",
     "less-loader": "^3.0.0",
     "url-loader": "^0.5.8",
-    "webpack": "^2.2.1",
+    "webpack": "^3.0.0",
     "webpack-dev-server": "^2.0.0",
     "webpack-livereload-plugin": "^0.10.0",
-    "webpack-stream": "^3.2.0"
+    "webpack-stream": "^7.0.0"
   }
 }
