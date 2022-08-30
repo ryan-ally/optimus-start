@@ -96,6 +96,8 @@ patch:
         patched: '2022-08-22T23:35:41.088Z'
     - babel-preset-es2015 > babel-plugin-transform-es2015-modules-umd > babel-plugin-transform-es2015-modules-amd > babel-plugin-transform-es2015-modules-commonjs > babel-template > babel-traverse > debug:
         patched: '2022-08-22T23:35:41.088Z'
+    - webpack-livereload-plugin > tiny-lr > body-parser > debug:
+        patched: '2022-08-30T20:38:00.481Z'
   'npm:ms:20170412':
     - webpack-dev-server > portfinder > debug > ms:
         patched: '2022-05-19T04:04:16.346Z'
@@ -189,3 +191,12 @@ patch:
         patched: '2022-08-22T23:35:41.088Z'
     - babel-preset-es2015 > babel-plugin-transform-es2015-modules-umd > babel-plugin-transform-es2015-modules-amd > babel-plugin-transform-es2015-modules-commonjs > babel-template > babel-traverse > debug > ms:
         patched: '2022-08-22T23:35:41.088Z'
+    - webpack-livereload-plugin > tiny-lr > body-parser > debug > ms:
+        patched: '2022-08-30T20:38:00.481Z'
+  'npm:minimatch:20160620':
+    - gulp > vinyl-fs > glob-stream > minimatch:
+        patched: '2022-08-30T20:38:00.481Z'
+    - gulp > vinyl-fs > glob-watcher > gaze > globule > minimatch:
+        patched: '2022-08-30T20:38:00.481Z'
+    - gulp > vinyl-fs > glob-watcher > gaze > globule > glob > minimatch:
+        patched: '2022-08-30T20:38:00.481Z'
