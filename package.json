@@ -56,7 +56,7 @@
     "less": "^2.7.2",
     "less-loader": "^3.0.0",
     "url-loader": "^0.6.0",
-    "webpack": "^4.0.0",
+    "webpack": "^5.0.0",
     "webpack-dev-server": "^4.7.3",
     "webpack-livereload-plugin": "^1.1.0",
     "webpack-stream": "^7.0.0"
