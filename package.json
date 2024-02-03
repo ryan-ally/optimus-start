@@ -40,7 +40,7 @@
     "dhx-optimus": "^0.3.0",
     "eslint": "^8.0.0",
     "event-stream": "^3.3.4",
-    "extract-text-webpack-plugin": "^2.1.0",
+    "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^0.10.1",
     "gulp": "^4.0.0",
     "gulp-clean": "^0.4.0",
