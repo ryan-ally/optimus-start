@@ -38,7 +38,7 @@
     "babel-preset-es2015-loose": "^8.0.0",
     "css-loader": "^2.0.0",
     "dhx-optimus": "^0.3.0",
-    "eslint": "^8.0.0",
+    "eslint": "^9.0.0",
     "event-stream": "^3.3.4",
     "extract-text-webpack-plugin": "^2.1.0",
     "file-loader": "^0.10.1",
